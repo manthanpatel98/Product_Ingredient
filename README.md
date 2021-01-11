@@ -25,7 +25,7 @@ Idea of making this Project came when i was looking for a good and natural shamp
 
 <img src="https://github.com/manthanpatel98/Product_Ingredient/blob/main/Images/Product_Ing.gif" width=650>
 
-* Project will be deployed once it is exapnded to other products.
+* Project will be deployed after certain advancements and once it is exapnded to other products.
 
 --- 
 
