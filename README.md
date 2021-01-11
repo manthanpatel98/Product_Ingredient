@@ -1,5 +1,5 @@
 # Product_Ingredient
-This Project for identifying whether the Product Ingredients are harmful or not. Currently, the project is focused on Shampoo.
+This Project for identifying whether the Product Ingredients are harmful or not. (Currently, the project is focused on Shampoo.)
 
 
 ## Motivation:
@@ -17,7 +17,7 @@ Idea of making this Project came when i was looking for a good and natural shamp
 ---
 
 ## Project:
-* The Project is a combination of **OCR** + **Text Scrapping** + **Image Scrapping** + **Study regarding common harmful & natural Ingredients in Product**. (Currently for **Shampoos**).
+* The Project is a combination of **OCR** + **Text Scraping** + **Image Scraping** + **Study regarding common harmful & natural Ingredients in Product**. (Currently for **Shampoos**).
 
 <img src="https://github.com/manthanpatel98/Product_Ingredient/blob/main/Images/chart.png" width=650>
 
