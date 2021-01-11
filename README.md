@@ -1,4 +1,4 @@
-# Product_Ingredient
+# Product_Ingredients_Checker
 This Project for identifying whether the Product Ingredients are harmful or not. (Currently, the project is focused on Shampoo.)
 
 
